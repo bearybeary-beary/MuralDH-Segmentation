@@ -44,7 +44,7 @@ All images are in PNG format with size `512×512` pixels. Masks are binary image
 
 If you use this dataset in your research, please cite the original paper:
 
-> Zishan Xu, Yuqing Yang, Qianzhen Fang, Wei Chen, Tingting Xu, Jueting Liu, & Zehua Wang. (2024). *A comprehensive dataset for digital restoration of Dunhuang murals*. Scientific Data.  
+> Xu Z, Yang Y, Fang Q, et al. A comprehensive dataset for digital restoration of Dunhuang murals[J]. Scientific Data, 2024, 11(1): 955.  
 > **Original repository**: [https://github.com/tearsheaven/MuralDH](https://github.com/tearsheaven/MuralDH)
 
 BibTeX:
@@ -53,5 +53,9 @@ BibTeX:
   title={A comprehensive dataset for digital restoration of Dunhuang murals},
   author={Xu, Zishan and Yang, Yuqing and Fang, Qianzhen and Chen, Wei and Xu, Tingting and Liu, Jueting and Wang, Zehua},
   journal={Scientific Data},
-  year={2024}
+  volume={11},
+  number={1},
+  pages={955},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
 }
