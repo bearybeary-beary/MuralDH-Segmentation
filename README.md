@@ -25,18 +25,18 @@ The dataset is hosted on Google Drive. Click the link below to download:
 
 ## 📁 Directory Structure
 
-After downloading and extracting the dataset, you will find the following structure:
-
+```
 MuralDH-Segmentation-Subset/
 ├── train/
-│ ├── images/ # training mural images (761)
-│ └── labels/ # corresponding damage masks (761)
+│   ├── images/      # 761 training images
+│   └── labels/      # 761 corresponding masks
 ├── val/
-│ ├── images/ # validation mural images (100)
-│ └── labels/ # validation masks (100)
-├── test/
-│ ├── images/ # test mural images (100)
-│ └── labels/ # test masks (100)
+│   ├── images/      # 100 validation images
+│   └── labels/      # 100 validation masks
+└── test/
+    ├── images/      # 100 test images
+    └── labels/      # 100 test masks
+```
 
 All images are in PNG format with size `512×512` pixels. Masks are binary images where pixel value `1` (or `255`) indicates damaged area, and `0` indicates intact area.
 
