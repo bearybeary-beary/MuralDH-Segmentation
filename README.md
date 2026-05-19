@@ -12,7 +12,7 @@ This version retains only the segmentation subset and re-splits it into **traini
 
 The dataset is hosted on Google Drive. Click the link below to download:
 
-> 🔗 **[Download MuralDH Segmentation Subset (Reorganized)](<your-google-drive-link>)**
+> 🔗 **[Download MuralDH Segmentation Subset (Reorganized)](<[your-google-drive-link](https://drive.google.com/drive/folders/1JtnCo4jUZmYeHAm2GrCp2P7aCWMafHwN?usp=sharing)>)**
 
 (The dataset is shared under the same CC BY-NC-ND 4.0 license as the original.)
 
