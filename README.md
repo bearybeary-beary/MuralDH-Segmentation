@@ -4,7 +4,7 @@
 
 ## 📋 Overview
 
-This repository provides a reorganized version of the **damage segmentation subset** from the [MuralDH dataset](https://github.com/tearsheaven/MuralDH). The original dataset contains 961 images with pixel-level damage annotations (cracks, flaking, fading).
+This repository provides a reorganized version of the **damage segmentation subset** from the [MuralDH dataset](https://github.com/tearsheaven/MuralDH). The original dataset contains 961 images with pixel-level damage annotations.
 
 This version retains only the segmentation subset and re-splits it into **train**, **val**, and **test** sets for easier model development and benchmarking.
 
