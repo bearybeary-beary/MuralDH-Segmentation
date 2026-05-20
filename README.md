@@ -38,7 +38,7 @@ MuralDH-Segmentation-Subset/
     └── labels/      # 100 test masks
 ```
 
-All images are in PNG format with size `512×512` pixels. Masks are binary images where pixel value `1` (or `255`) indicates damaged area, and `0` indicates intact area.
+All images are in PNG format with size `512×512` pixels. Masks are binary images where pixel value `255` indicates damaged area, and `0` indicates intact area.
 
 ## 📝 Citation
 
