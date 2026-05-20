@@ -26,7 +26,7 @@ The dataset is hosted on Google Drive. Click the link below to download:
 ## 📁 Directory Structure
 
 ```
-MuralDH-Segmentation-Subset/
+muralseg/
 ├── train/
 │   ├── images/      # 761 training images
 │   └── labels/      # 761 corresponding masks
